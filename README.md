@@ -17,4 +17,4 @@ The pipeline works under Linux distributions.
 - liftOver 
 - Python 2.7
 - awk
-
+- liftOverPlink.py
