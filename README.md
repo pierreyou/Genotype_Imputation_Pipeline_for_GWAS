@@ -12,4 +12,9 @@ Each step has seperate bash script for convenience as users may opt to use part 
 
 ## Dependencies
 The pipeline works under Linux distributions.
-#### Step one: 
+#### Step one
+- Plink 
+- liftOver 
+- Python 2.7
+- awk
+
