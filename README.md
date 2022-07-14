@@ -13,8 +13,6 @@ Each step has seperate bash script for convenience as users may opt to use part 
 ## Dependencies
 The pipeline works under Linux distributions.
 #### Step one
-- [Plink](https://www.cog-genomics.org/plink/) 
-- [liftOver](https://genome.sph.umich.edu/w/index.php?title=LiftOver&action=edit)
-- [Python 2.7](https://www.python.org/downloads/release/python-271/) 
-- awk
-- liftOverPlink.py
+- [Plink](https://www.cog-genomics.org/plink/)  
+- [awk](https://www.tutorialspoint.com/awk/awk_environment.htm)
+- [liftOverPlink](https://github.com/sritchie73/liftOverPlink)
