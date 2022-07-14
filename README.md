@@ -8,11 +8,13 @@ This imputation pipeline utilizes SHAPEIT4.2.2 and Impute5_v1.1.5 for phasing an
 4. Genotype imputation.
 
 ## Description
-First 2 steps can be achieved by following the links, https://github.com/sritchie73/liftOverPlink and  https://www.well.ox.ac.uk/~wrayner/tools/index.html#Checking respectively. However, bash scripts are provided for all 4 steps seperately for convenience and users may opt to use part of this pipeline. In order to use those scripts, users need to install dependencies provided below and edit required variables such as file names, directory paths and binary file locations and change/add optional parameters.
+First 2 steps can be achieved by following the links, https://github.com/sritchie73/liftOverPlink and  https://www.well.ox.ac.uk/~wrayner/tools/index.html#Checking respectively. 
+
+The last 2 steps can be achieved by editing required variables in provided bash scripts such as file names, directory paths and binary file locations and changing/adding optional parameters. 
 
 ## Dependencies
 The pipeline works under Linux distributions.
-#### Step one
+
 - [Plink](https://www.cog-genomics.org/plink/)  
 - [awk](https://www.tutorialspoint.com/awk/awk_environment.htm)
 - [liftOverPlink](https://github.com/sritchie73/liftOverPlink)
