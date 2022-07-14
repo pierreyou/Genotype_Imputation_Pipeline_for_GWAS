@@ -15,6 +15,7 @@ The last 2 steps can be achieved by editing required variables in provided bash 
 ## Dependencies
 The pipeline works under Linux distributions.
 
-- [Plink](https://www.cog-genomics.org/plink/)  
-- [awk](https://www.tutorialspoint.com/awk/awk_environment.htm)
-- [liftOverPlink](https://github.com/sritchie73/liftOverPlink)
+- SHAPEIT4 from https://odelaneau.github.io/shapeit4/  
+- SAMtools and BCFtools from http://www.htslib.org/download/
+- IMPUTE5 from https://www.dropbox.com/sh/mwnceyhir8yze2j/AADbzP6QuAFPrj0Z9_I1RSmla?dl=0
+
