@@ -8,7 +8,7 @@ target_dir=path/to/target/dataset/directory/	#edit
 ref_dir=path/to/reference/dataset/directory/	#edit
 map_dir=path/to/maps/directory/			#edit
 
-#--------Location of exec files--------- 	#This section can be commented out if already in $PATH. If so, remember to remove "${}". 
+#--------Location of exec files--------- 	#This section can be commented out if already in $PATH. If so, remember to remove "${}" and use whole name e.g. impute5_static. 
 imp5Chunker=path/to/imp5Chunker_static_file	#edit
 imp5Converter=path/to/imp5Converter_static_file	#edit
 impute5=path/to/impute5_static_file		#edit
