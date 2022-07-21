@@ -7,8 +7,8 @@
 
  
 #--------------------------------Path to files---------------------#
-chain_file=/path/to/file.over.chain.gz	#edit
-liftOverPlink=/path/to/liftOverPlink.py	#edit
+chain_file=/path/to/file.over.chain.gz	
+liftOverPlink=/path/to/liftOverPlink.py	
 
 
 #Convert chr 23 to X as this is how it's coded in chain file and convert to ped
