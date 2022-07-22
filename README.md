@@ -17,9 +17,9 @@ The last 2 steps can be achieved by editing required variables in provided bash 
 Each step (1, 3 & 4) is provided in a seperate bash script for convenience as users may opt to use different tool for phasing for example.  
 
 ## Dependencies
-The pipeline needs a Linux shell able to run BASH line commands.
-
-- SHAPEIT4 from https://odelaneau.github.io/shapeit4/  
-- SAMtools and BCFtools from http://www.htslib.org/download/
-- IMPUTE5 from https://www.dropbox.com/sh/mwnceyhir8yze2j/AADbzP6QuAFPrj0Z9_I1RSmla?dl=0
+- The pipeline needs a Linux shell able to run BASH line commands.
+- In addition to required dependencies in provided links in Description section above, the tools below are needed. 
+1) SHAPEIT4 from https://odelaneau.github.io/shapeit4/  
+2) SAMtools and BCFtools from http://www.htslib.org/download/
+3) IMPUTE5 from https://www.dropbox.com/sh/mwnceyhir8yze2j/AADbzP6QuAFPrj0Z9_I1RSmla?dl=0
 
