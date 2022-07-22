@@ -24,7 +24,9 @@ Each step (1, 3 & 4) is provided in a seperate bash script for convenience as us
 3) IMPUTE5 from https://www.dropbox.com/sh/mwnceyhir8yze2j/AADbzP6QuAFPrj0Z9_I1RSmla?dl=0
 
 ## Usage
-Copy and paste the needed script into a plain-text file and then edit file locations and arguments as required.
+Copy and paste the needed script into a plain-text file and then editarguments as required.
 
 Run the script as follows:
-e.g. bash step_1_liftOver.sh 
+```bash
+bash step_1_liftOver.sh
+```
