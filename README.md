@@ -8,7 +8,9 @@ This imputation pipeline utilizes SHAPEIT4.2.2 and Impute5_v1.1.5 for phasing an
 4. Genotype imputation.
 
 ## Description
-First 2 steps can be achieved by following the links, https://github.com/sritchie73/liftOverPlink and  https://www.well.ox.ac.uk/~wrayner/tools/index.html#Checking respectively. However, a script for step 1 has been provided assuming that the starting file is in plink format.
+First 2 steps can be achieved by following the links, https://github.com/sritchie73/liftOverPlink and  https://www.well.ox.ac.uk/~wrayner/tools/ respectively. However, a script for step 1 has been provided assuming that the starting file is in plink format.
+
+Step 2 (strand check) depends on reference panel used as indicated in Will Rayner's toolbox provided above.
 
 The last 2 steps can be achieved by editing required variables in provided bash scripts such as file names, directory paths and binary file locations and changing/adding optional parameters. 
 
