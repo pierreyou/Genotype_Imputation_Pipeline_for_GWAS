@@ -10,7 +10,7 @@ map_dir=/path/to/maps/directory/ 	#edit
 #Input file need to be indexed before phasing 
 tabix -p vcf ${input_file}
 
-#Phasing is done for each chromosome seperately so edit parameters accordingly.    
+#Phasing is done for each chromosome seperately so edit arguments accordingly.    
 ${shapeit4} \
 	--input ${input_file} \
 	--map ${map_dir}chr#.gmap.gz \
