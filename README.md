@@ -12,6 +12,8 @@ First 2 steps can be achieved by following the links, https://github.com/sritchi
 
 The last 2 steps can be achieved by editing required variables in provided bash scripts such as file names, directory paths and binary file locations and changing/adding optional parameters. 
 
+
+
 ## Dependencies
 The pipeline works under Linux distributions.
 
