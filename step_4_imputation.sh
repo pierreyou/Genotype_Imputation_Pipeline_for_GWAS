@@ -14,7 +14,7 @@ imp5Converter=path/to/imp5Converter_static_file	#edit
 impute5=path/to/impute5_static_file		#edit
 
 #Converting to imp5 format (optional) ~ 25% faster than vcf (mpi index is generated automatically).
-#Edit all parameters below
+#Edit all arguments below
 ${imp5Converter} --h ${ref_dir}chr#_phased_panel.vcf.gz \
                --r chr# \
                --o ${ref_dir}chr#_phased_panel.imp5 \
