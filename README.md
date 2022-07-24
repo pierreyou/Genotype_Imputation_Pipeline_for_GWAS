@@ -12,7 +12,7 @@ First two steps can be achieved by following the links, https://github.com/sritc
 
 Step 2 (strand check) depends on reference panel used as indicated in Will Rayner's toolbox provided above. No script provided for this step but I might be able to help if you face issues using 1000 Genomes 30x on GRCh38.
 
-The last 2 steps can be achieved by editing required arguments in provided bash scripts such as file names, directory paths and binary file locations and changing/adding optional arguments. 
+The last 2 steps can be achieved by editing required arguments in provided bash scripts such as file names, directory paths, binary file locations and regions and adding optional parameters. 
 
 Each step (1, 3 & 4) is provided in a seperate bash script for convenience as users for example may opt to use different tool for phasing.  
 
